@@ -1,5 +1,5 @@
 from setuptools import setup
-__version__ = '0.7'
+__version__ = '0.8'
 
 def readme():
     with open('README.rst') as f:

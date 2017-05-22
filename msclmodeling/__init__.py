@@ -1,5 +1,5 @@
 from dataacq import *
-__version__ = '0.7'
+__version__ = '0.8'
 
 def timecon(stringl):
     '''This function converts Unix Time stamp data to human readable format'''
